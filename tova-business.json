@@ -1,0 +1,61 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T03:42:39.585Z",
+  "slug": "agradeauto",
+  "name": "A Grade Automotive",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Mechanics & car repair",
+    "niche": "mechanics & car repair",
+    "group": "Retail & automotive"
+  },
+  "contact": {
+    "phone": "+6433844030",
+    "address": "1030 Ferry Road, Christchurch"
+  },
+  "social": {},
+  "about": {
+    "services": [
+      "Please check back soon"
+    ]
+  },
+  "before": {
+    "url": "https://www.agradeauto.co.nz",
+    "domain": "agradeauto.co.nz",
+    "finalUrl": "https://www.agradeauto.co.nz/",
+    "title": "Under Maintenance",
+    "pages": 1,
+    "score": 56,
+    "assessedAt": "2026-11-24T13:06:47.055Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "no-meta-desc",
+        "title": "No search description",
+        "evidence": "No meta description, so Google chooses random page text for search results."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/a-grade-automotive/",
+    "repoUrl": "https://github.com/tova-studio/a-grade-automotive",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T03:42:39.585Z"
+  }
+}
